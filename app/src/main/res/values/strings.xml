@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AccessibilityService</string>
+    <string name="accessibility_service_label">Talkback Service</string>
+    <string name="accessibility_service_description">TalkBack Service\n</string>
+</resources>
